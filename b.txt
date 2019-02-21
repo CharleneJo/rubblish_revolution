@@ -1,1 +1,16 @@
 i am here
+git branch branchname
+git branch
+git add .
+git commit -m 'comments'
+git commit -am 'comments'
+git checkout branchname
+git checkout -b branchname
+
+git branch -d branchname
+
+git merge
+
+head -1 test.txt
+git diff
+
