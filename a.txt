@@ -2,4 +2,6 @@ hi i test 'git add' command
 
 
 haha ,test update
+
 testestest
+ha,you see conflicts?
